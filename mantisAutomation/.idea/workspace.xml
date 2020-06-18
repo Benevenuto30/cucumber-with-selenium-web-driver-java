@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab68e5b7-25ae-46e6-811e-175f94ab8b8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dS8FHWijHTgkumupgtxkpqrEuX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Login">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Login.feature" />
+      <option name="GLUE" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="mantisAutomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.main" />
+      <module name="mantisAutomation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mantisAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="loginSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mantisAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunCukesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mantisAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.loginSteps" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: Login" />
+      <item itemvalue="JUnit.loginSteps" />
+      <item itemvalue="JUnit.LoginTest.loginSuccess" />
+      <item itemvalue="JUnit.RunCukesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Login" />
+        <item itemvalue="JUnit.RunCukesTest" />
+        <item itemvalue="JUnit.loginSteps" />
+        <item itemvalue="JUnit.LoginTest.loginSuccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab68e5b7-25ae-46e6-811e-175f94ab8b8e" name="Default Changelist" comment="" />
+      <created>1592407028150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592407028150</updated>
+      <workItem from="1592407031624" duration="5425000" />
+      <workItem from="1592422177725" duration="967000" />
+      <workItem from="1592426242151" duration="3985000" />
+      <workItem from="1592485995069" duration="10675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="249" key="#All_in_mantisAutomation" timestamp="1592414268250">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="526" y="249" key="#All_in_mantisAutomation/0.23.1920.1177@0.23.1920.1177" timestamp="1592414268250" />
+    <state x="424" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592490851342">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="424" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592490851342" />
+    <state x="424" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1592422204872" />
+    <state x="583" y="306" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1592411334267">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="583" y="306" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1592411334267" />
+    <state x="697" y="402" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592414552436">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="697" y="402" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1592414552436" />
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom" timestamp="1592500452481">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592500452481" />
+    <state width="1878" height="253" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1592489855108" />
+    <state width="1878" height="253" key="GridCell.Tab.0.center" timestamp="1592500452480">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.center/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592500452480" />
+    <state width="1878" height="253" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1592489855107" />
+    <state width="1878" height="253" key="GridCell.Tab.0.left" timestamp="1592500452480">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.left/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592500452480" />
+    <state width="1878" height="253" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1592489855107" />
+    <state width="1878" height="253" key="GridCell.Tab.0.right" timestamp="1592500452481">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="253" key="GridCell.Tab.0.right/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592500452481" />
+    <state width="1878" height="253" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1592489855108" />
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1592496268308">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592496268308" />
+    <state width="1878" height="405" key="GridCell.Tab.1.center" timestamp="1592496268307">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.center/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592496268307" />
+    <state width="1878" height="405" key="GridCell.Tab.1.left" timestamp="1592496268307">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.left/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592496268307" />
+    <state width="1878" height="405" key="GridCell.Tab.1.right" timestamp="1592496268308">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.right/0.23.1920.1177/-432.-1057.2560.1057@0.23.1920.1177" timestamp="1592496268308" />
+    <state x="461" y="250" key="SettingsEditor" timestamp="1592414196718">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="461" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1592414196718" />
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1592487594488">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1592487594488" />
+  </component>
+</project>
