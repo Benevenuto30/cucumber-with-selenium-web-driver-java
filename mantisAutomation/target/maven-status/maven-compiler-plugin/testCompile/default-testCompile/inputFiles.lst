@@ -1,2 +1,8 @@
-/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/loginTest.java
-/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/stepDefinitions/loginSteps.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/pages/MyAccount.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/support/Web.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/pages/BasePage.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/tests/loginSteps.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/RunCukesTest.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/pages/LoginPage.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/tests/ChangePasswordSteps.java
+/Users/larafael.benevenuto/Desktop/mantisAutomation/src/test/java/pages/CreateProject.java

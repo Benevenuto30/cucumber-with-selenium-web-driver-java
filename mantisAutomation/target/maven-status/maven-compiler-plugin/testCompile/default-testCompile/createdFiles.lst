@@ -1,2 +1,8 @@
-stepDefinitions/loginSteps.class
-loginTest.class
+pages/CreateProject.class
+pages/MyAccount.class
+pages/BasePage.class
+tests/loginSteps.class
+RunCukesTest.class
+support/Web.class
+tests/ChangePasswordSteps.class
+pages/LoginPage.class

@@ -17,8 +17,8 @@ public class LoginPage extends BasePage{
 		driver.findElement(By.id("password")).sendKeys(password);
 		return this;
 	}
-	public HomePage clickLogin (){
+	public CreateProject clickLogin (){
 		driver.findElement(By.xpath("//*[@id=\"login-form\"]/fieldset/input[3]")).click();
-		return new HomePage(driver);
+		return new CreateProject(driver);
 	}
 }
